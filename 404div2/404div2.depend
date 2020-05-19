@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588318205 source:d:\codeforces\404div2\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+

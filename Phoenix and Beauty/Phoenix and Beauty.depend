@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588410844 source:d:\codeforces\phoenix and beauty\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<bits.h>
+
